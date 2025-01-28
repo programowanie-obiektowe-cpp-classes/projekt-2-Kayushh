@@ -1,0 +1,28 @@
+﻿  pacman.cpp
+C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\pacman.cpp(138,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\pacman.cpp(138,65): warning C4244:         with
+C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\pacman.cpp(138,65): warning C4244:         [
+C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\pacman.cpp(138,65): warning C4244:             T=float
+C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\pacman.cpp(138,65): warning C4244:         ]
+C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\pacman.cpp(138,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\pacman.cpp(138,50): warning C4244:         with
+C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\pacman.cpp(138,50): warning C4244:         [
+C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\pacman.cpp(138,50): warning C4244:             T=float
+C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\pacman.cpp(138,50): warning C4244:         ]
+C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\pacman.cpp(152,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\pacman.cpp(152,64): warning C4244:         with
+C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\pacman.cpp(152,64): warning C4244:         [
+C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\pacman.cpp(152,64): warning C4244:             T=float
+C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\pacman.cpp(152,64): warning C4244:         ]
+C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\pacman.cpp(152,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\pacman.cpp(152,49): warning C4244:         with
+C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\pacman.cpp(152,49): warning C4244:         [
+C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\pacman.cpp(152,49): warning C4244:             T=float
+C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\pacman.cpp(152,49): warning C4244:         ]
+C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\pacman.cpp(227,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\pacman.cpp(227,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\pacman.cpp(235,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\pacman.cpp(234,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ConsoleApplication4.vcxproj -> C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\x64\Debug\ConsoleApplication4.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
