@@ -17,10 +17,10 @@ int main() {
         "Pac-Man");
     window.setFramerateLimit(60);
 
-    // Load font for UI
+    // Load font 
     sf::Font font;
     if (!font.loadFromFile("arial.ttf")) {
-        std::cerr << "Error: You must place arial.tff next to pacman.exe\n";
+        std::cerr << "Error: You must place arial.tff next to source files\n";
         return 1;
     }
 
@@ -35,7 +35,7 @@ int main() {
     livesText.setFillColor(sf::Color::White);
     livesText.setPosition(200.f, 0.f);
 
-    // Pac-Man
+    // Pac-man
     Pacman pacman;
     pacman.position = sf::Vector2f(0.f, 0.f);
     pacman.velocity = sf::Vector2f(0.f, 0.f);
@@ -44,7 +44,7 @@ int main() {
     pacman.sprite.setFillColor(sf::Color::Yellow);
     pacman.alive = true;
 
-    // Find Pac-Man start in the map
+    // Find Pac-man start in the map
     bool pacFound = false;
     for (int y = 0; y < MAP_HEIGHT && !pacFound; y++) {
         for (int x = 0; x < MAP_WIDTH && !pacFound; x++) {
@@ -97,7 +97,7 @@ int main() {
     int lives = INITIAL_LIVES;
     bool gameOver = false;
 
-    // A corner tile for scatter mode
+    // A corner tile for scatter 
     sf::Vector2i scatterCorner(1, 1);
 
     sf::Clock clock;
@@ -124,21 +124,21 @@ int main() {
             continue;
         }
 
-        // Update Pac-Man if alive
+        // Update Pac-man if alive
         if (pacman.alive) {
             updatePacmanInput(pacman);
 
             // new position
             sf::Vector2f newPos = pacman.position + pacman.velocity * deltaTime;
 
-            // tunelling horizontal
+            /* tunelling horizontal
             if (newPos.x < -TILE_SIZE) {
                 newPos.x = MAP_WIDTH * TILE_SIZE;
             }
             else if (newPos.x > MAP_WIDTH * TILE_SIZE) {
                 newPos.x = -TILE_SIZE;
             }
-
+            */
             /*
             // tunelowanie pionowe
             if (newPos.y < -TILE_SIZE) {
@@ -152,11 +152,11 @@ int main() {
             // Check collision with walls
             float radius = pacman.sprite.getRadius();
             if (canMovePacman(newPos, radius)) {
-                // Move
+                // move
                 pacman.position = newPos;
                 pacman.sprite.setPosition(pacman.position);
 
-                // Check if Pac-Man eats a dot in the tile he's in
+                // Check if Pac-man eats a dot in the tile he's in
                 sf::Vector2i tileCoord = pixelToTile(pacman.position);
                 if (tileCoord.x >= 0 && tileCoord.x < MAP_WIDTH &&
                     tileCoord.y >= 0 && tileCoord.y < MAP_HEIGHT)
@@ -209,11 +209,9 @@ int main() {
                 }
             }
 
-            // Move tile-based
             g.ch.moveTimer += deltaTime;
             if (g.ch.moveTimer >= g.ch.moveDuration) {
                 g.ch.moveTimer = 0.f;
-                // nextTile
                 g.ch.currentTile = g.ch.nextTile;
 
                 // pick new direction
@@ -223,7 +221,7 @@ int main() {
                     newDir = scatterAI(g.ch.currentTile, g.ch.direction, scatterCorner);
                 }
                 else if (g.state == GhostState::Chase && pacman.alive) {
-                    // chase Pac-Man tile
+                    // chase Pac-man tile
                     sf::Vector2i pacTile = pixelToTile(pacman.position);
                     newDir = chaseAI(g.ch.currentTile, g.ch.direction, pacTile);
                 }

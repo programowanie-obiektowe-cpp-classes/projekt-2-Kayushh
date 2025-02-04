@@ -18,9 +18,9 @@ enum class GhostState {
 
 struct GhostChar {
     sf::Vector2i currentTile; // which tile we at
-    sf::Vector2i nextTile;    // the tile we’re moving to
+    sf::Vector2i nextTile;    // the tile weâ€™re moving to
     Direction direction;       // current direction
-    float moveTimer;           // how long we've been moving from currentTile to nextTile
+    float moveTimer;           // how long it took to move from currenttile to nextTile
     float moveDuration;        // how long to move one tile
     sf::CircleShape sprite;
     bool alive;

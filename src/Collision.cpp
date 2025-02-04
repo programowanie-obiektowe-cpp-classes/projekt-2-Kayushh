@@ -9,7 +9,7 @@ float distanceBetween(const sf::Vector2f& a, const sf::Vector2f& b) {
 }
 
 bool canMovePacman(const sf::Vector2f& newPos, float radius) {
-    // Check the 4 corners of Pac-Man's bounding box
+    // Check the 4 corners of Pacman bounding box
     // If corner=wall, cannot move
     sf::Vector2f topLeft = { newPos.x - radius, newPos.y - radius };
     sf::Vector2f topRight = { newPos.x + radius, newPos.y - radius };
