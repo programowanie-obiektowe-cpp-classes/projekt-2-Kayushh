@@ -1,0 +1,13 @@
+﻿  AI.cpp
+  Collision.cpp
+  Config.cpp
+  Direction.cpp
+  Input.cpp
+  Map.cpp
+  main.cpp
+C:\Users\kajus\source\repos\Pacman\Pacman\main.cpp(327,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kajus\source\repos\Pacman\Pacman\main.cpp(327,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Pacman.vcxproj -> C:\Users\kajus\source\repos\Pacman\x64\Debug\Pacman.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

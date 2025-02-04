@@ -1,3 +1,0 @@
-C:\Users\kajus\source\repos\ConsoleApplication4\ConsoleApplication4\x64\Debug\ConsoleA.8BEF81C0.Up2Date
-C:\Users\kajus\source\repos\Pacman_v2\ConsoleApplication4\x64\Debug\ConsoleA.8BEF81C0.Up2Date
-C:\Users\kajus\Documents\projekt-2-Kayushh\Nowy folder\Pacman_v2\ConsoleApplication4\x64\Debug\ConsoleA.8BEF81C0.Up2Date

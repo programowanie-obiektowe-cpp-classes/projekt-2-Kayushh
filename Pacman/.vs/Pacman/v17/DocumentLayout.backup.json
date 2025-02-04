@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kajus\\source\\repos\\Pacman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|solutionrelative:Pacman\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\AI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|solutionrelative:Pacman\\AI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Collision.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|solutionrelative:Pacman\\Collision.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Config.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|solutionrelative:Pacman\\Config.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|solutionrelative:Pacman\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Direction.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|solutionrelative:Pacman\\Direction.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Collision.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|solutionrelative:Pacman\\Collision.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\AI.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|solutionrelative:Pacman\\AI.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Config.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|solutionrelative:Pacman\\Config.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Entities.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|solutionrelative:Pacman\\Entities.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Map.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|solutionrelative:Pacman\\Map.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Direction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|solutionrelative:Pacman\\Direction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|solutionrelative:Pacman\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Input.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{195836C9-7AC8-4413-A0FD-1B31E03A4A1A}|Pacman\\Pacman.vcxproj|solutionrelative:Pacman\\Input.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\main.cpp",
+              "RelativeDocumentMoniker": "Pacman\\main.cpp",
+              "ToolTip": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\main.cpp",
+              "RelativeToolTip": "Pacman\\main.cpp",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAAI4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-04T12:10:59.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Input.cpp",
+              "DocumentMoniker": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Input.cpp",
+              "RelativeDocumentMoniker": "Pacman\\Input.cpp",
+              "ToolTip": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Input.cpp",
+              "RelativeToolTip": "Pacman\\Input.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-04T12:10:49.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Input.hpp",
+              "DocumentMoniker": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Input.hpp",
+              "RelativeDocumentMoniker": "Pacman\\Input.hpp",
+              "ToolTip": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Input.hpp",
+              "RelativeToolTip": "Pacman\\Input.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-04T12:10:40.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AI.cpp",
+              "DocumentMoniker": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\AI.cpp",
+              "RelativeDocumentMoniker": "Pacman\\AI.cpp",
+              "ToolTip": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\AI.cpp",
+              "RelativeToolTip": "Pacman\\AI.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-04T12:10:31.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AI.hpp",
+              "DocumentMoniker": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\AI.hpp",
+              "RelativeDocumentMoniker": "Pacman\\AI.hpp",
+              "ToolTip": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\AI.hpp",
+              "RelativeToolTip": "Pacman\\AI.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-04T12:10:22.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Collision.cpp",
+              "DocumentMoniker": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Collision.cpp",
+              "RelativeDocumentMoniker": "Pacman\\Collision.cpp",
+              "ToolTip": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Collision.cpp",
+              "RelativeToolTip": "Pacman\\Collision.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-04T12:10:08.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Collision.hpp",
+              "DocumentMoniker": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Collision.hpp",
+              "RelativeDocumentMoniker": "Pacman\\Collision.hpp",
+              "ToolTip": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Collision.hpp",
+              "RelativeToolTip": "Pacman\\Collision.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-04T12:09:56.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Entities.hpp",
+              "DocumentMoniker": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Entities.hpp",
+              "RelativeDocumentMoniker": "Pacman\\Entities.hpp",
+              "ToolTip": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Entities.hpp",
+              "RelativeToolTip": "Pacman\\Entities.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-04T12:09:45.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Map.cpp",
+              "DocumentMoniker": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Map.cpp",
+              "RelativeDocumentMoniker": "Pacman\\Map.cpp",
+              "ToolTip": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Map.cpp",
+              "RelativeToolTip": "Pacman\\Map.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-04T12:09:36.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Map.hpp",
+              "DocumentMoniker": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Map.hpp",
+              "RelativeDocumentMoniker": "Pacman\\Map.hpp",
+              "ToolTip": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Map.hpp",
+              "RelativeToolTip": "Pacman\\Map.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-04T12:07:35.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Direction.cpp",
+              "DocumentMoniker": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Direction.cpp",
+              "RelativeDocumentMoniker": "Pacman\\Direction.cpp",
+              "ToolTip": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Direction.cpp",
+              "RelativeToolTip": "Pacman\\Direction.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-04T12:07:26.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Direction.hpp",
+              "DocumentMoniker": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Direction.hpp",
+              "RelativeDocumentMoniker": "Pacman\\Direction.hpp",
+              "ToolTip": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Direction.hpp",
+              "RelativeToolTip": "Pacman\\Direction.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-04T12:07:16.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Config.cpp",
+              "DocumentMoniker": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Config.cpp",
+              "RelativeDocumentMoniker": "Pacman\\Config.cpp",
+              "ToolTip": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Config.cpp",
+              "RelativeToolTip": "Pacman\\Config.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-04T12:07:07.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Config.hpp",
+              "DocumentMoniker": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Config.hpp",
+              "RelativeDocumentMoniker": "Pacman\\Config.hpp",
+              "ToolTip": "C:\\Users\\kajus\\source\\repos\\Pacman\\Pacman\\Config.hpp",
+              "RelativeToolTip": "Pacman\\Config.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-04T12:06:55.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
